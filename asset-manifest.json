@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/product_catalog/static/css/main.9c84f487.chunk.css",
+    "main.css": "/product_catalog/static/css/main.eb87c2d2.chunk.css",
     "main.js": "/product_catalog/static/js/main.d3f362d8.chunk.js",
     "main.js.map": "/product_catalog/static/js/main.d3f362d8.chunk.js.map",
     "runtime-main.js": "/product_catalog/static/js/runtime-main.076c123b.js",
@@ -8,7 +8,7 @@
     "static/js/2.6e481f55.chunk.js": "/product_catalog/static/js/2.6e481f55.chunk.js",
     "static/js/2.6e481f55.chunk.js.map": "/product_catalog/static/js/2.6e481f55.chunk.js.map",
     "index.html": "/product_catalog/index.html",
-    "static/css/main.9c84f487.chunk.css.map": "/product_catalog/static/css/main.9c84f487.chunk.css.map",
+    "static/css/main.eb87c2d2.chunk.css.map": "/product_catalog/static/css/main.eb87c2d2.chunk.css.map",
     "static/js/2.6e481f55.chunk.js.LICENSE.txt": "/product_catalog/static/js/2.6e481f55.chunk.js.LICENSE.txt",
     "static/media/Logo.3c6bd188.svg": "/product_catalog/static/media/Logo.3c6bd188.svg",
     "static/media/App.scss": "/product_catalog/static/media/Mont-SemiBold.0b5e68eb.ttf",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.076c123b.js",
     "static/js/2.6e481f55.chunk.js",
-    "static/css/main.9c84f487.chunk.css",
+    "static/css/main.eb87c2d2.chunk.css",
     "static/js/main.d3f362d8.chunk.js"
   ]
 }
